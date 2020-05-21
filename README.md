@@ -18,13 +18,13 @@ We used tkinter toolkit for GUI. We also used "random" module of python. All the
 
 This is the page the user will see when he opens the application or (runs tukkkka.py).
 
-![1](F:\python\Tukkkka\ss_for_readme\1.png)
+![1](https://github.com/Garmode3073/Tukkkka/blob/master/1.png)
 
 **2. New Game Screen**
 
 When user selects "New Game" option, he/she will get the following screen where the user needs to select a level of hardness for the game to be played.
 
-![2](F:\python\Tukkkka\ss_for_readme\2.png)
+![2](https://github.com/Garmode3073/Tukkkka/blob/master/2.png)
 
 **3.  Game Play**
 
@@ -35,19 +35,19 @@ Here are a few stills from the game.
 * Bottom right image is seen when the user breaks the high score. the application asks for user's name.
 * Bottom left image is seen when user answers incorrectly.
 
-![3](F:\python\Tukkkka\ss_for_readme\3.png)
+![3](https://github.com/Garmode3073/Tukkkka/blob/master/3.png)
 
 **4. High Score **
 
 When user asks for high score, user gets the same screen as he/she gets when user clicks on new game. This screen has exact same three options i.e Easy, Medium, Hard. On clicking on any one of them the high score will be shown in the form of messagebox.
 
-![4](F:\python\Tukkkka\ss_for_readme\4.png)
+![4](https://github.com/Garmode3073/Tukkkka/blob/master/4.png)
 
 **5. Instructions**
 
 Instruction screen is one of the simplest interactions between application and user. User needs to click on "Instruction" button read the instructions written and get back by clicking "Back" button.
 
-![5](F:\python\Tukkkka\ss_for_readme\5.png)
+![5](https://github.com/Garmode3073/Tukkkka/blob/master/5.png)
 
 
 
