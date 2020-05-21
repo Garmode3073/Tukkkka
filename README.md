@@ -37,7 +37,7 @@ Here are a few stills from the game.
 
 ![3](https://github.com/Garmode3073/Tukkkka/blob/master/3.png)
 
-**4. High Score **
+**4. High Score**
 
 When user asks for high score, user gets the same screen as he/she gets when user clicks on new game. This screen has exact same three options i.e Easy, Medium, Hard. On clicking on any one of them the high score will be shown in the form of messagebox.
 
